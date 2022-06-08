@@ -1,0 +1,250 @@
+country_code,country_name,country_score
+ABW,Aruba,6073
+AFG,Afghanistan,8676
+AGO,Angola,2723
+AIA,Anguilla,2558
+ALA,Åland Islands,8492
+ALB,Albania,8839
+AND,Andorra,164
+ARE,United Arab Emirates,9240
+ARG,Argentina,4670
+ARM,Armenia,2800
+ASM,American Samoa,3506
+ATA,Antarctica,4912
+ATF,French Southern Territories,7963
+ATG,Antigua and Barbuda,7461
+AUS,Australia,426
+AUT,Austria,3509
+AZE,Azerbaijan,4582
+BDI,Burundi,3988
+BEL,Belgium,4118
+BEN,Benin,4601
+BES,"Bonaire, Sint Eustatius and Saba",9626
+BFA,Burkina Faso,3149
+BGD,Bangladesh,4257
+BGR,Bulgaria,6496
+BHR,Bahrain,1106
+BHS,Bahamas,1592
+BIH,Bosnia and Herzegovina,9611
+BLM,Saint Barthélemy,4080
+BLR,Belarus,771
+BLZ,Belize,5466
+BMU,Bermuda,8726
+BOL,"Bolivia, Plurinational State of",6605
+BRA,Brazil,3775
+BRB,Barbados,5892
+BRN,Brunei Darussalam,6030
+BTN,Bhutan,8280
+BVT,Bouvet Island,3803
+BWA,Botswana,997
+CAF,Central African Republic,6509
+CAN,Canada,6724
+CCK,Cocos (Keeling) Islands,4173
+CHE,Switzerland,4363
+CHL,Chile,8965
+CHN,China,8847
+CIV,Côte d'Ivoire,4530
+CMR,Cameroon,2564
+COD,"Congo, The Democratic Republic of the",1770
+COG,Congo,4375
+COK,Cook Islands,6316
+COL,Colombia,7898
+COM,Comoros,793
+CPV,Cabo Verde,184
+CRI,Costa Rica,8444
+CUB,Cuba,1108
+CUW,Curaçao,786
+CXR,Christmas Island,5853
+CYM,Cayman Islands,5940
+CYP,Cyprus,9145
+CZE,Czechia,8797
+DEU,Germany,3875
+DJI,Djibouti,6182
+DMA,Dominica,8701
+DNK,Denmark,758
+DOM,Dominican Republic,1691
+DZA,Algeria,6043
+ECU,Ecuador,5059
+EGY,Egypt,8757
+ERI,Eritrea,1096
+ESH,Western Sahara,1588
+ESP,Spain,5853
+EST,Estonia,5514
+ETH,Ethiopia,1188
+FIN,Finland,5541
+FJI,Fiji,7932
+FLK,Falkland Islands (Malvinas),348
+FRA,France,7045
+FRO,Faroe Islands,5080
+FSM,"Micronesia, Federated States of",7716
+GAB,Gabon,1960
+GBR,United Kingdom,5399
+GEO,Georgia,8860
+GGY,Guernsey,3687
+GHA,Ghana,8949
+GIB,Gibraltar,797
+GIN,Guinea,6712
+GLP,Guadeloupe,394
+GMB,Gambia,2957
+GNB,Guinea-Bissau,1271
+GNQ,Equatorial Guinea,9290
+GRC,Greece,9790
+GRD,Grenada,8294
+GRL,Greenland,4735
+GTM,Guatemala,3720
+GUF,French Guiana,8318
+GUM,Guam,4561
+GUY,Guyana,6350
+HKG,Hong Kong,1160
+HMD,Heard Island and McDonald Islands,2790
+HND,Honduras,3703
+HRV,Croatia,9434
+HTI,Haiti,1924
+HUN,Hungary,690
+IDN,Indonesia,7835
+IMN,Isle of Man,5304
+IND,India,9844
+IOT,British Indian Ocean Territory,4545
+IRL,Ireland,47
+IRN,"Iran, Islamic Republic of",5032
+IRQ,Iraq,4031
+ISL,Iceland,3436
+ISR,Israel,6492
+ITA,Italy,2687
+JAM,Jamaica,7763
+JEY,Jersey,295
+JOR,Jordan,7358
+JPN,Japan,7258
+KAZ,Kazakhstan,2932
+KEN,Kenya,4809
+KGZ,Kyrgyzstan,6501
+KHM,Cambodia,2241
+KIR,Kiribati,1579
+KNA,Saint Kitts and Nevis,8751
+KOR,"Korea, Republic of",1765
+KWT,Kuwait,9024
+LAO,Lao People's Democratic Republic,1515
+LBN,Lebanon,7391
+LBR,Liberia,9628
+LBY,Libya,4779
+LCA,Saint Lucia,7440
+LIE,Liechtenstein,3050
+LKA,Sri Lanka,678
+LSO,Lesotho,2400
+LTU,Lithuania,3045
+LUX,Luxembourg,5495
+LVA,Latvia,2446
+MAC,Macao,6993
+MAF,Saint Martin (French part),3272
+MAR,Morocco,6841
+MCO,Monaco,3431
+MDA,"Moldova, Republic of",5831
+MDG,Madagascar,7317
+MDV,Maldives,7546
+MEX,Mexico,8699
+MHL,Marshall Islands,9730
+MKD,North Macedonia,7837
+MLI,Mali,2061
+MLT,Malta,1869
+MMR,Myanmar,8152
+MNE,Montenegro,2532
+MNG,Mongolia,6009
+MNP,Northern Mariana Islands,8704
+MOZ,Mozambique,3079
+MRT,Mauritania,5992
+MSR,Montserrat,1535
+MTQ,Martinique,5618
+MUS,Mauritius,2356
+MWI,Malawi,9045
+MYS,Malaysia,4730
+MYT,Mayotte,9608
+NAM,Namibia,6064
+NCL,New Caledonia,3161
+NER,Niger,5951
+NFK,Norfolk Island,9168
+NGA,Nigeria,3995
+NIC,Nicaragua,6229
+NIU,Niue,4356
+NLD,Netherlands,4314
+NOR,Norway,6752
+NPL,Nepal,9158
+NRU,Nauru,246
+NZL,New Zealand,3662
+OMN,Oman,1531
+PAK,Pakistan,6101
+PAN,Panama,5103
+PCN,Pitcairn,3159
+PER,Peru,57
+PHL,Philippines,7370
+PLW,Palau,1637
+PNG,Papua New Guinea,7966
+POL,Poland,7584
+PRI,Puerto Rico,6778
+PRK,"Korea, Democratic People's Republic of",1983
+PRT,Portugal,3091
+PRY,Paraguay,9352
+PSE,"Palestine, State of",4734
+PYF,French Polynesia,2242
+QAT,Qatar,8240
+REU,Réunion,2419
+ROU,Romania,6662
+RUS,Russian Federation,7614
+RWA,Rwanda,2479
+SAU,Saudi Arabia,748
+SDN,Sudan,3641
+SEN,Senegal,5934
+SGP,Singapore,2811
+SGS,South Georgia and the South Sandwich Islands,3505
+SHN,"Saint Helena, Ascension and Tristan da Cunha",7521
+SJM,Svalbard and Jan Mayen,3969
+SLB,Solomon Islands,8446
+SLE,Sierra Leone,6963
+SLV,El Salvador,5516
+SMR,San Marino,7965
+SOM,Somalia,3043
+SPM,Saint Pierre and Miquelon,2400
+SRB,Serbia,3
+SSD,South Sudan,5165
+STP,Sao Tome and Principe,1307
+SUR,Suriname,9455
+SVK,Slovakia,8123
+SVN,Slovenia,2985
+SWE,Sweden,2171
+SWZ,Eswatini,7318
+SXM,Sint Maarten (Dutch part),6525
+SYC,Seychelles,5356
+SYR,Syrian Arab Republic,3780
+TCA,Turks and Caicos Islands,5211
+TCD,Chad,7701
+TGO,Togo,4139
+THA,Thailand,1440
+TJK,Tajikistan,5215
+TKL,Tokelau,7376
+TKM,Turkmenistan,2487
+TLS,Timor-Leste,8609
+TON,Tonga,6693
+TTO,Trinidad and Tobago,3071
+TUN,Tunisia,6431
+TUR,Turkey,2447
+TUV,Tuvalu,9807
+TWN,"Taiwan, Province of China",6211
+TZA,"Tanzania, United Republic of",605
+UGA,Uganda,8266
+UKR,Ukraine,1853
+UMI,United States Minor Outlying Islands,8425
+URY,Uruguay,9305
+USA,United States,5729
+UZB,Uzbekistan,3557
+VAT,Holy See (Vatican City State),7807
+VCT,Saint Vincent and the Grenadines,8504
+VEN,"Venezuela, Bolivarian Republic of",8527
+VGB,"Virgin Islands, British",1569
+VIR,"Virgin Islands, U.S.",87
+VNM,Viet Nam,375
+VUT,Vanuatu,3340
+WLF,Wallis and Futuna,4700
+WSM,Samoa,3197
+YEM,Yemen,4150
+ZAF,South Africa,6291
+ZMB,Zambia,6664
+ZWE,Zimbabwe,6654
