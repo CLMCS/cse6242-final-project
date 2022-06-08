@@ -1,0 +1,64 @@
+{
+    "Aruba": {
+        "country_code": "ABW",
+        "Aruba university 0": {
+            "org_score": 1308,
+            "org_id": "0" 
+        },
+        "Aruba university 1": {
+            "org_score": 2261,
+            "org_id": " 1"
+        },
+        "Aruba university 2": {
+            "org_score": 1186,
+            "org_id": " 2"
+        },
+        "Aruba university 3": {
+            "org_score": 853,
+            "org_id": " 3"
+        },
+        "Aruba university 4": {
+            "org_score": 1061,
+            "org_id": "Aruba university 4"
+        },
+        "Aruba university 5": {
+            "org_score": 993,
+            "org_id": "Aruba university 5"
+        },
+        "Aruba university 6": {
+            "org_score": 2879,
+            "org_id": "Aruba university 6"
+        }
+    },
+    "Afghanistan": {
+        "country_code": "AFG",
+        "Afghanistan university 0": {
+            "org_score": 242,
+            "org_id": "Afghanrsity 0"
+        },
+        "Afghanistan university 1": {
+            "org_score": 524,
+            "org_id": "Afghanissity 1"
+        },
+        "Afghanistan university 2": {
+            "org_score": 524,
+            "org_id": "Afghani 2"
+        },
+        "Afghanistan university 3": {
+            "org_score": 524,
+            "org_id": "Afghani3"
+        },
+        "Afghanistan university 4": {
+            "org_score": 524,
+            "org_id": "Afghanistan  4"
+        },
+        "Afghanistan university 5": {
+            "org_score": 524,
+            "org_id": "Afghanistan university 5"
+        },
+        "Afghanistan university 6": {
+            "org_score": 524,
+            "org_id": "Afghanistan university 6"
+        }
+    }
+}
